@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#about {
+  padding-top: 3rem;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+.card-img-top {
+  width: 200px;
+  height: auto;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+}
+.artikel {
+  padding-top: 4rem;
+}
+
+.form_buku {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+}
+
+/* Style inputs, select elements and textareas */
+input[type="text"],
+select,
+textarea {
+  width: 75%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
